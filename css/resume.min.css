@@ -155,7 +155,7 @@ a:hover, a:focus, a:active {
 .grid-item {
   background-color: #5098af;
   color: #fff;
-  border-radius: 5px;
+  border-radius: 1px;
   padding: 20px;
   font-size: 100%;
 }
