@@ -150,6 +150,7 @@ a:hover, a:focus, a:active {
   border-collapse: collapse;
   border-spacing: 0;
   border-color: #dee2e6;
+  width: 100%;
 }
 
 .tg td {
@@ -182,4 +183,5 @@ a:hover, a:focus, a:active {
 .tg-us36 {
   border-color: inherit;
   vertical-align: top;
+  width: 33%;
 }
