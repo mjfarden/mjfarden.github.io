@@ -146,16 +146,41 @@ a:hover, a:focus, a:active {
   color: #343a40;
 }
 
-.grid-container {
-  display: grid;
-  grid-template-columns: 33% 33% 33%;
-  grid-gap: 5px;
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border-color: #dee2e6;
+  width: auto;
 }
 
-.grid-item {
-  background-color: #5098af;
-  color: #fff;
-  border-radius: 1px;
-  padding: 20px;
-  font-size: 100%;
+.tg td {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  padding: 10px 5px;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  word-break: normal;
+  border-color: #ccc;
+  color: #333;
+  background-color: #fff;
+}
+
+.tg th {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  padding: 10px 5px;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  word-break: normal;
+  border-color: #ccc;
+  color: #333;
+  background-color: #dee2e6;
+}
+
+.tg-us36 {
+  border-color: inherit;
+  vertical-align: top;
 }
