@@ -10142,7 +10142,8 @@ form .row:first-child .floating-label-form-group {
 }
 
 #brandImage {
-  height: 2rem;
+  height: auto;
+  width: auto;
 }
 
 .portfolio {
@@ -10175,7 +10176,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .navbar-brand img {
-  max-width: 13.5rem;
+  max-width: 18rem;
 }
 
 .btn-social {
